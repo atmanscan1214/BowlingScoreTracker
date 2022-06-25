@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingScoreTracker", "BowlingScoreTracker\BowlingScoreTracker.csproj", "{A49D1418-1C23-47F2-8883-C016CFF1323E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameData", "FrameData\FrameData.csproj", "{02E11D8F-2C89-4DFD-88C1-6468BDF1959E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A49D1418-1C23-47F2-8883-C016CFF1323E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A49D1418-1C23-47F2-8883-C016CFF1323E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A49D1418-1C23-47F2-8883-C016CFF1323E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E11D8F-2C89-4DFD-88C1-6468BDF1959E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E11D8F-2C89-4DFD-88C1-6468BDF1959E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E11D8F-2C89-4DFD-88C1-6468BDF1959E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E11D8F-2C89-4DFD-88C1-6468BDF1959E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
